@@ -1,1 +1,15 @@
+[theme]
+primaryColor = "#d33682"      # Ruby Pink/Magenta
+backgroundColor = "#002b36"   # Solarized Dark Base
+secondaryBackgroundColor = "#073642"
+textColor = "#93a1a1"
+font = "monospace"            # Essential for security tool output
 
+[server]
+headless = true
+enableCORS = false            # Helps with some proxy routing
+enableXsrfProtection = true
+
+[client]
+toolbarMode = "minimal"       # Keeps the UI clean and "Ghost-like"
+showErrorDetails = false      # Don't leak system info on crash
