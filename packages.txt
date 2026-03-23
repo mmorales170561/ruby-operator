@@ -1,1 +1,9 @@
-
+nmap
+tor
+stunnel4
+proxychains4
+curl
+jq
+golang-go
+perl
+build-essential
