@@ -1,1 +1,11 @@
 
+streamlit
+requests
+web3
+sqlmap
+trufflehog
+slither-analyzer
+aderyn
+garak
+mindgard
+python-dotenv
